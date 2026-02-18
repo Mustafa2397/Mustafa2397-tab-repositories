@@ -1,17 +1,17 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2cf3ff,100:f64f59&height=220&section=header&text=Mustafa%20Zalam&fontSize=75&animation=fadeIn" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=220&section=header&text=Mustafa%20Zalam&fontSize=75&animation=fadeIn" /> </p>
 
 ### <p align="center"> 📊 Data Science & AI Enthusiast | Future Data Analyst </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-2cf3ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Main%20Language-Python-ffd700?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-00d2ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Main%20Language-Python-ffd700?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 👋 Hi, I'm **Mustafa**, a passionate learner in **Data Science & AI**.
-- 🔍 My heart beats for **Statistics and Mathematics**, which led me to Data Analysis.
+- 👋 Hi, I'm **Mustafa**, a passionate learner in the world of **Data Science & AI**.
+- 🔍 My heart beats for **Statistics and Mathematics**, which led me to dive deep into Data Analysis.
 - 🧘 Known for my **patience and calm** approach to complex problem-solving.
 - 💡 Constantly curious about the stories hidden within raw data.
 
@@ -28,21 +28,32 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats (Live Updates)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa2397&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa2397&show_icons=true&theme=tokyonight&hide_border=true" alt="Mustafa's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa2397&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📁 Featured Project
 #### 🎬 Netflix Data Cleaning & Machine Learning
-- **Workflow:** Performed extensive **Data Cleaning** and **Visualization**.
-- **Modeling:** Applied the **Random Forest** algorithm for pattern prediction.
-- 🔗 [**Explore Project Repository**](https://github.com/Mustafa2397/Mustafa2397-tab-repositories)
+- **Description:** A comprehensive project focusing on Netflix dataset.
+- **Workflow:** Performed extensive **Data Cleaning** and **Visualization** to extract insights.
+- **Modeling:** Applied the **Random Forest** algorithm to predict/classify data patterns.
+- 🔗 [**View Repository**](https://github.com/Mustafa2397/Mustafa2397-tab-repositories)
 
 ---
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="
+  <a href="https://www.linkedin.com/in/mustafa-zalam-7bb1ba252">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center"> 
+  <i>"In God we trust, all others must bring data."</i>
+</p>
