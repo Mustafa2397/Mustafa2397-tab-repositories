@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analysis-00d2ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Main%20Language-Python-ffd700?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Specialty-Classification-ff69b4?style=for-the-badge" />
 </p>
 
 ---
@@ -12,8 +13,8 @@
 ### 🚀 About Me
 - 👋 Hi, I'm **Mustafa**, a passionate learner in **Data Science & AI**.
 - 🔍 Specialist in **Statistics and Mathematics**, focusing on deep data insights.
-- 🧘 Focused on solving complex problems with a calm and analytical mindset.
-- 💡 Passionate about turning raw data into meaningful stories.
+- 🧘 Known for a calm, analytical approach to complex problem-solving.
+- 💡 Passionate about turning raw data into meaningful stories and predictive insights.
 
 ---
 
@@ -22,40 +23,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats (Live)
+### 📈 GitHub Stats (Interactive)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa2397&show_icons=true&theme=tokyonight&hide_border=true" alt="Mustafa's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa2397&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 📁 Featured Project
-#### 🎬 Netflix Content Analysis & Classification
-- **Description:** A complete data pipeline analyzing Netflix's library using Python.
-- **Technical Steps:** Performed rigorous data cleaning, handling missing values, and Exploratory Data Analysis (EDA).
-- **Machine Learning:** Implemented a **Random Forest Classifier** achieving an **88% accuracy** rate.
-- 🔗 [**View Full Project on GitHub**](https://github.com/Mustafa2397/Netflix-Data-Analysis)
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/mustafa-zalam-7bb1ba252">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-<p align="center"> 
-  <i>"In God we trust, all others must bring data."</i>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Mustafa2397&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" alt="Mustafa's Profile Views" />
-</p>
+  <a href="https://github.com/Mustafa2397?tab=repositories">
+    <img src="
