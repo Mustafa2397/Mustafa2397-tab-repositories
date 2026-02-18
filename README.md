@@ -1,10 +1,10 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=200&section=header&text=Mustafa%20Zalam&fontSize=70&animation=fadeIn" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2cf3ff,50:c471ed,100:f64f59&height=220&section=header&text=Mustafa%20Zalam&fontSize=75&animation=fadeIn" /> </p>
 
 ### <p align="center"> 📊 Data Science & AI Enthusiast | Future Data Analyst </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Main%20Language-Python-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-2cf3ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Language-Python-ffd700?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -28,9 +28,11 @@
 
 ---
 
-### 📈 GitHub Stats (Live)
+### 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa2397&show_icons=true&theme=nord&hide_border=true" alt="Mustafa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa2397&show_icons=true&theme=tokyonight&hide_border=true" alt="Mustafa's Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa2397&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -40,7 +42,7 @@
 - **Description:** A comprehensive project focusing on Netflix dataset.
 - **Workflow:** Performed extensive **Data Cleaning** and **Visualization**.
 - **Modeling:** Applied the **Random Forest** algorithm for pattern prediction.
-- 🔗 [Explore Project](https://github.com/Mustafa2397/Mustafa2397)
+- 🔗 [Explore Project Repository](https://github.com/Mustafa2397)
 
 ---
 
