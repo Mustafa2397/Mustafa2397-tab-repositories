@@ -1,11 +1,6 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2cf3ff,50:c471ed,100:f64f59&height=220&section=header&text=Mustafa%20Zalam&fontSize=75&animation=fadeIn" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mustafa%20Zalam%20&fontSize=70&animation=fadeIn" /> </p>
 
 ### <p align="center"> 📊 Data Science & AI Enthusiast | Future Data Analyst </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-2cf3ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Main%20Language-Python-ffd700?style=for-the-badge&logo=python&logoColor=white" />
-</p>
 
 ---
 
@@ -28,11 +23,10 @@
 
 ---
 
-### 📈 GitHub Activity
+### 📈 GitHub Stats (Live)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa2397&show_icons=true&theme=tokyonight&hide_border=true" alt="Mustafa's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa2397&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa2397&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mustafa's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa2397&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 ---
@@ -40,9 +34,9 @@
 ### 📁 Featured Project
 #### 🎬 Netflix Data Cleaning & Machine Learning
 - **Description:** A comprehensive project focusing on Netflix dataset.
-- **Workflow:** Performed extensive **Data Cleaning** and **Visualization**.
-- **Modeling:** Applied the **Random Forest** algorithm for pattern prediction.
-- 🔗 [Explore Project Repository](https://github.com/Mustafa2397)
+- **Workflow:** Performed extensive **Data Cleaning** and **Visualization** to extract insights.
+- **Modeling:** Applied the **Random Forest** algorithm to predict/classify data patterns.
+- 🔗 *[View Project Here](https://github.com/Mustafa2397/Mustafa2397-tab-repositories)* (أو حط لينك المشروع المباشر هنا)
 
 ---
 
