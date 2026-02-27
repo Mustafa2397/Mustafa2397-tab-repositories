@@ -54,6 +54,11 @@
 - **Features:** Automated book tracking, user management, and efficient search logic.
 - 🔗 [**View Project**](https://github.com/Mustafa2397/Library-Management-System)
 
+#### 3️⃣ 🌐 University Database System (SQL)
+- **Core:** Designed and implemented a robust relational database structure using **SQL**.
+- **Features:** Optimized schema design with **ERD**, data normalization, and complex query implementation.
+- 🔗 [**View Project**](https://github.com/Mustafa2397/University-Database-Design)
+
 ---
 
 ### 🌐 Connect with Me
@@ -61,7 +66,7 @@
   <a href="https://www.linkedin.com/in/mustafa-zalam-7bb1ba252" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mostafazalam3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
