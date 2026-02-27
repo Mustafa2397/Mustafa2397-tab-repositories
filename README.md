@@ -57,7 +57,7 @@
 #### 3️⃣ 🌐 University Database System (SQL)
 - **Core:** Designed and implemented a robust relational database structure using **SQL**.
 - **Features:** Optimized schema design with **ERD**, data normalization, and complex query implementation.
-- 🔗 [**View Project**](https://github.com/Mustafa2397/University-Database-Design)
+- 🔗 [**View Project**](https://github.com/Mustafa2397/Database-project-)
 
 ---
 
